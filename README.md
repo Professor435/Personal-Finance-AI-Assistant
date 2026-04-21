@@ -94,15 +94,6 @@ FinAI is a comprehensive, AI-powered personal finance management application des
    # Simply open index.html in your preferred browser
    open index.html
    ```
-   
-   Or serve with a local server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
-   ```
 
 4. **Start managing your finances!** 💰
 
@@ -195,25 +186,6 @@ copies or substantial portions of the Software.
 - [Font Awesome](https://fontawesome.com) for comprehensive icon library
 - [Google Fonts](https://fonts.google.com) for the Inter typeface
 
-## 📬 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/finai-personal-finance-ai](https://github.com/yourusername/finai-personal-finance-ai)
-
----
-
-⭐ Star this repo if you find it helpful!
-```
-
----
-
-### **Topics / Tags**
-```
-personal-finance, ai-assistant, budget-tracker, expense-manager, investment-tracker, 
-financial-planning, savings-goals, javascript, html5, tailwindcss, chartjs, 
-glassmorphism, dark-theme, responsive-design, localstorage, fintech, wealth-management
-```
 
 ### **Social Preview Image Description**
 A dark-themed dashboard screenshot showing:
@@ -225,7 +197,4 @@ A dark-themed dashboard screenshot showing:
 
 ---
 
-
 contact for more (professorshami435@gmail.com)
-
-This description provides everything needed for a professional GitHub repository: clear feature documentation, installation instructions, tech stack details, contribution guidelines, and proper licensing.
