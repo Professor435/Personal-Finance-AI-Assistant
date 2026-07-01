@@ -2,7 +2,7 @@
 
 Full Description
 
-```markdown
+```markdown 
 # 🧠 FinAI - Personal Finance AI Assistant
 
 FinAI is a comprehensive, AI-powered personal finance management application designed to help users take control of their financial lives. Built with modern web technologies and featuring an intuitive, eye-catching glassmorphism interface, FinAI combines powerful analytics with intelligent recommendations to deliver a complete financial wellness solution.
