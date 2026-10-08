@@ -1,6 +1,6 @@
  # Personal-Finance-AI-Assistant
 
-Full Description
+Full Description 
   
 ```markdown  
 # 🧠 FinAI - Personal Finance AI Assistant
